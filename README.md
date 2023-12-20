@@ -15,4 +15,4 @@
 ### 기술서
 - 원하는 기간을 선택하고 해당 버튼을 누를시 원하는 기간으로 조회가 됩니다.
 <img src="/skill/skill1.png" alt="skillScreen1" style="height: 400px; width:700px;"/>
-<img src="/skill/skill2.png" alt="skillScreen2" style="height: 400px; width:100%; display:inline-block"/>
+<img src="/skill/skill2.png" alt="skillScreen2" style="height: 400px; width:100%;"/>
