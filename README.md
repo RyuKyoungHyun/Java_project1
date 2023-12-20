@@ -7,3 +7,10 @@
 - Front : HTML / CSS / JavaScript / jQuery / Ajax
 - Back : JAVA / servlet / jsp / jstl
 - Tools : sts3 / bootstrap
+
+### 담당업무
+- 조장
+- 관리자페이지 : 회원관리 / 게시판관리 / 정산
+
+### 기술서
+- 파일링크
